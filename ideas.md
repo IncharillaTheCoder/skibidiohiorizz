@@ -11,7 +11,7 @@
 ## Notifications  
 ## FPS Counter  
 ## Disconnect Button  
-## bntype  
+## Button Noise
 
 # Legit Modules
 ### Comp Boost
