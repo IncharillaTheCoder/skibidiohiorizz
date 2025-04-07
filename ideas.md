@@ -1,11 +1,9 @@
 # Menu Tabs
-## Options
-## Legit Modules
-## Blatant Modules
-## Security Modules
-## Overpowered Modules
-## Detected Modules ( UNBANNER ONLY )
-## Extensions ( Aka Plugins )
+### Options
+### Legit Modules
+### Blatant Modules
+### Visual Modules
+### Security Modules
 
 # Options
 
@@ -16,38 +14,44 @@
 ## bntype  
 
 # Legit Modules
-
-## Snail Boost  
-## Comp Boost  
-## Pig Boost  
-## Mosa Boost  
+### Comp Boost
+### Pig Boost
+### Mosa Boost
+### Comp Long arms
+### No finger movement
+### Legit Dash
+### No Tag Freeze
+### Fake Lag
 
 # Blatant Modules
-
-## Blatant Speed  
-## Platforms  
-## Flick Tag 
+### Snail Speed
+### Blatant Speed
+### Platforms
+### Flick Tag
+### Blatant Long arms
+### No Tree Colliders
+### Fly
+### Fast Fly
+### Noclip Fly
+### Anti Tag
+### Low Gravity
+### Zero Gravity
+### High Gravity
+### Blatant Dash
 
 # Visual Modules
-
-## Head ESP
- 
-## skyclr  
-## Epilepsy Sky  
-## Reset Sky Color  
+### Head ESP
+### skyclr
+### Epilepsy Sky
+### Reset Sky Color
+### Low Quality
+### Reset Quality
+### Tracers
+### Make everyone rainbow color=red>[LAG]</color>
+### Chams
 
 # Security Modules
-
-## Disconnect  (it isnt a sec module but still)
-## Anti Report  
-
-# Overpowered Modules
-
-# Detected Modules
-
-## Lag Gun ( D )
-## Lag Gun ( D )
-
-## Crash Gun ( D )
-## Crash All ( D ) 
-
+### Disconnect
+### Anti Report
+### Safe Mode
+### Leave Troop
