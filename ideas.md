@@ -16,8 +16,8 @@
 # Overpowered Modules
 
 # Detected Modules
-## Lag Gun
-## Lag Gun
+## Lag Gun ( D )
+## Lag Gun ( D )
 
-## Crash Gun
-## Crash All
+## Crash Gun ( D )
+## Crash All ( D )
