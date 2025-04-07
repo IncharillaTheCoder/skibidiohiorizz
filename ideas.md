@@ -6,12 +6,13 @@
 ### Security Modules
 
 # Options
+### Right/Left Hand
+### Notifications
+### FPS Counter
+### Disconnect Button
+### Button Noise
+### Platform Type
 
-## Right/Left Hand  
-## Notifications  
-## FPS Counter  
-## Disconnect Button  
-## Button Noise
 
 # Legit Modules
 ### Comp Boost
