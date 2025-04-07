@@ -47,7 +47,7 @@
 ### Low Quality
 ### Reset Quality
 ### Tracers
-### Make everyone rainbow color=red>[LAG]</color>
+### Make everyone rainbow { LAGGY }
 ### Chams
 
 # Security Modules
