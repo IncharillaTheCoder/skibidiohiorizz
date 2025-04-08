@@ -50,6 +50,9 @@
 ### Tracers
 ### Make everyone rainbow { LAGGY }
 ### Chams
+### Get Mod Stick { Restart Game To Turn Off }
+### Get Admin Badge { Restart Game To Turn Off }
+### Get Finger Painter { Restart Game To Turn Off }
 
 # Security Modules
 ### Disconnect
