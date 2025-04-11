@@ -87,5 +87,4 @@
 
 # Ideas
 ### Spider Man
-### Fix Chams
-etc etc (i aint tryna put like 60 more lines)
+### Info GUI
